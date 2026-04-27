@@ -1,25 +1,37 @@
-# Medizys Clinical Pulse - Releases
+# 🚀 Medizys Clinical Pulse — Releases
 
-Official releases for the Medizys Clinical Pulse mobile applications.
+Official distribution channel for the **Medizys Clinical Pulse** Android Application.
 
-## Current Versions
+## 📥 Latest Release
 
-### Android (Stable)
-- **Version**: 1.0.0
-- **Build**: Stable
-- **Architecture**: arm64-v8a, armeabi-v7a, x86_64
-- **Download**: [clinical-pulse-v1.0.0.apk](./clinical-pulse-v1.0.0.apk)
+### **[v1.1.0 — Official Branded Release](https://github.com/10sp/medizys-releases/raw/master/clinical-pulse-v1.1.0.apk)**
 
-### iOS
-- **Status**: Coming Soon to Apple App Store
-- **Beta**: Available via TestFlight (Internal)
+> [!IMPORTANT]
+> This version includes the new **Auto-Update** system. Future updates will be notified directly within the app.
 
-## Installation Instructions
+---
 
-1. Download the APK file on your Android device.
-2. If prompted, allow "Install from Unknown Sources" in your browser/settings.
-3. Open the file and follow the installation prompts.
-4. Launch "Clinical Pulse" from your home screen.
+## ✨ Features in this Version
 
-## Support
-For technical support, visit [mediqueue.hara-xy.com](https://mediqueue.hara-xy.com)
+### 🎬 Native Video Splash
+A premium, animated entry experience featuring the Medizys brand identity.
+
+### ⚡ MLKit High-Speed Scanning
+Integrated with Google's Machine Learning Kit for 10x faster and more reliable QR code detection.
+
+### 🛡️ Secure Identity
+Full integration with Google Sign-in and Firebase for seamless and secure professional access.
+
+### 🔄 Intelligent Auto-Updater
+Never miss an update. The app now checks for improvements automatically on every launch.
+
+---
+
+## 🛠️ Installation Instructions
+1. Download the `.apk` file above.
+2. Open the file on your Android device.
+3. If prompted, allow "Installation from Unknown Sources".
+4. Log in with your Medizys credentials or Google account.
+
+---
+© 2026 Hara-XY Innovation Lab Pvt Ltd.
